@@ -10,13 +10,13 @@ Hello! I'm Jona Martin, and I am transitioning from the legal field to a career 
 ## Skills
 
 - **Technical Support**: Troubleshooting, remote support, hardware and software installation, network setup.
-- **IT Tools**: Ticketing systems (e.g., Jira, Zendesk), remote desktop applications, basic scripting.
+- **IT Tools**: Ticketing systems (e.g., osTicket), remote desktop applications, basic scripting.
 - **Operating Systems**: Windows, Linux.
 - **Office Software**: Microsoft Office Suite, Google Workspace.
 - **Legal Skills**: Attention to detail, analytical thinking, client communication.
 
-## Projects
-**Microsoft Azure**
+## Projects: Microsoft Azure
+
 ### [Project 1: Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/jam529-naru/Resource-Groups-and-VMs)
 A detailed guide and implementation for creating resource groups and deploying virtual machines in Azure, emphasizing best practices for cloud infrastructure management.
 
@@ -40,6 +40,26 @@ A practical implementation guide for setting up network file shares and managing
 
 - **Technologies Used**: Windows Server, SMB Protocol, Active Directory, PowerShell.
 - **Key Features**: File share creation, permission settings, access control lists (ACLs), network security configurations.
+
+## Projects: osTicket
+
+### [Project 1: Prerequisites and Installation](https://github.com/jam529-naru/osticket-prereqs)
+A detailed guide for setting up the necessary prerequisites and installing the osTicket support ticketing system.
+
+- **Technologies Used**: PHP, MySQL, Apache/IIS, osTicket.
+- **Key Features**: System requirements setup, environment configuration, osTicket installation, initial configuration.
+
+### [Project 2: Post-Installation Configuration](https://github.com/jam529-naru/osticket-post-install)
+A step-by-step tutorial for configuring osTicket after installation to optimize it for operational use.
+
+- **Technologies Used**: osTicket, PHP, MySQL.
+- **Key Features**: Email settings, department configuration, SLA plans, role-based access control.
+
+### [Project 3: Ticket Lifecycle Examples](https://github.com/jam529-naru/ticket-lifecycle)
+A comprehensive guide illustrating various ticket lifecycles within osTicket to demonstrate how tickets are managed from creation to resolution.
+
+- **Technologies Used**: osTicket.
+- **Key Features**: Ticket creation, assignment, escalation, resolution processes, workflow automation examples.
 
 ## Certifications
 
