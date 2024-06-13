@@ -11,28 +11,41 @@ Hello! I'm Jona Martin, and I am transitioning from the legal field to a career 
 
 - **Technical Support**: Troubleshooting, remote support, hardware and software installation, network setup.
 - **IT Tools**: Ticketing systems (e.g., Jira, Zendesk), remote desktop applications, basic scripting.
-- **Operating Systems**: Windows, macOS, Linux.
+- **Operating Systems**: Windows, Linux.
 - **Office Software**: Microsoft Office Suite, Google Workspace.
 - **Legal Skills**: Attention to detail, analytical thinking, client communication.
 
 ## Projects
+**Microsoft Azure**
+### [Project 1: Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/jam529-naru/Resource-Groups-and-VMs)
+A detailed guide and implementation for creating resource groups and deploying virtual machines in Azure, emphasizing best practices for cloud infrastructure management.
 
-### [Project 1: Home Network Setup](https://github.com/yourusername/homenetwork-setup)
-A comprehensive guide and implementation of setting up a secure home network, including router configuration, Wi-Fi security, and network troubleshooting.
+- **Technologies Used**: Azure, ARM Templates, PowerShell, Azure CLI.
+- **Key Features**: Resource group creation, VM deployment, automation scripts, security configuration.
 
-- **Technologies Used**: Networking hardware, Router firmware, Basic networking protocols.
-- **Key Features**: Step-by-step setup instructions, common issues and fixes, security best practices.
+### [Project 2: Installing Active Directory within Azure VMs](https://github.com/jam529-naru/Active-Directory-Install)
+A step-by-step tutorial for installing and configuring Active Directory within Azure virtual machines, enhancing identity and access management for cloud resources.
 
-### [Project 2: IT Support Ticketing System](https://github.com/yourusername/it-support-ticketing)
-A demo of a simple IT support ticketing system to manage and resolve user issues efficiently.
+- **Technologies Used**: Azure, Windows Server, Active Directory, PowerShell.
+- **Key Features**: Domain controller setup, user and group management, directory synchronization, secure access policies.
 
-- **Technologies Used**: HTML, CSS, JavaScript, Node.js.
-- **Key Features**: User issue submission form, admin dashboard, status tracking.
+### [Project 3: Configuring Active Directory with Azure VMs](https://github.com/jam529-naru/Configuring-Active-Directory)
+A comprehensive guide on configuring Active Directory within Azure virtual machines to ensure robust directory services and identity management.
+
+- **Technologies Used**: Azure, Windows Server, Active Directory, PowerShell.
+- **Key Features**: Group Policy configuration, OU structure, role-based access control, integration with other Azure services.
+
+### [Project 4: Network File Shares and Permissions](https://github.com/jam529-naru/Network-File-Shares)
+A practical implementation guide for setting up network file shares and managing permissions to ensure efficient and secure file access within an organization.
+
+- **Technologies Used**: Windows Server, SMB Protocol, Active Directory, PowerShell.
+- **Key Features**: File share creation, permission settings, access control lists (ACLs), network security configurations.
 
 ## Certifications
 
 - **ISC2 Certified in Cybersecurity**
 - **CompTIA Network+ (In Progress)**
+- **CompTIA Security+ (In Progress)**
 
 
 ## Learning Journey
